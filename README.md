@@ -1,2 +1,2 @@
 # Imaging-Scripts
-Various scripts for processing microscopy images
+Various scripts for processing and analyzing microscopy images
